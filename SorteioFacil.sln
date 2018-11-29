@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SorteioFacil", "SorteioFacil\SorteioFacil.csproj", "{DEFDAA42-A424-4259-910E-EDD406D29D6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEFDAA42-A424-4259-910E-EDD406D29D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFDAA42-A424-4259-910E-EDD406D29D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFDAA42-A424-4259-910E-EDD406D29D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFDAA42-A424-4259-910E-EDD406D29D6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F7376AF-B2AE-4535-A292-7D83E2BC59E8}
+	EndGlobalSection
+EndGlobal

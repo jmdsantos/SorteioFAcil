@@ -1,0 +1,11 @@
+C:\Projetos\SorteioFacil\SorteioFacil\bin\Debug\netcoreapp2.1\SorteioFacil.deps.json
+C:\Projetos\SorteioFacil\SorteioFacil\bin\Debug\netcoreapp2.1\SorteioFacil.runtimeconfig.json
+C:\Projetos\SorteioFacil\SorteioFacil\bin\Debug\netcoreapp2.1\SorteioFacil.runtimeconfig.dev.json
+C:\Projetos\SorteioFacil\SorteioFacil\bin\Debug\netcoreapp2.1\SorteioFacil.dll
+C:\Projetos\SorteioFacil\SorteioFacil\bin\Debug\netcoreapp2.1\SorteioFacil.pdb
+C:\Projetos\SorteioFacil\SorteioFacil\obj\Debug\netcoreapp2.1\SorteioFacil.csprojAssemblyReference.cache
+C:\Projetos\SorteioFacil\SorteioFacil\obj\Debug\netcoreapp2.1\SorteioFacil.csproj.CoreCompileInputs.cache
+C:\Projetos\SorteioFacil\SorteioFacil\obj\Debug\netcoreapp2.1\SorteioFacil.AssemblyInfoInputs.cache
+C:\Projetos\SorteioFacil\SorteioFacil\obj\Debug\netcoreapp2.1\SorteioFacil.AssemblyInfo.cs
+C:\Projetos\SorteioFacil\SorteioFacil\obj\Debug\netcoreapp2.1\SorteioFacil.dll
+C:\Projetos\SorteioFacil\SorteioFacil\obj\Debug\netcoreapp2.1\SorteioFacil.pdb
